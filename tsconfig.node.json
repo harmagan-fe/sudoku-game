@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "declaration": true, // Required for composite projects
+    "declarationMap": true,
+    "emitDeclarationOnly": true, // Optional if you only want type declarations
+    "target": "ES2020",
+    "module": "ESNext",
+    "strict": true
+  },
+  "include": ["src/**/*.ts"]
+}
