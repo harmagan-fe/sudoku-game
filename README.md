@@ -1,4 +1,6 @@
-# sudoku
+# Sudoku
+
+A playable Sudoku game built with Vue 3 and TypeScript. Includes puzzle generation, move validation, and unit tests written with Vitest.
 
 ## Project Setup
 
